@@ -14,3 +14,5 @@ if ($aksi == "tambah"){
     header("location:../view/tampil.php");
 }
 ?>
+
+//aku coba nambahin komen ya!
